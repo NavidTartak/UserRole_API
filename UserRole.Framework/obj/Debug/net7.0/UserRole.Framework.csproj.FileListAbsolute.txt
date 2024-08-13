@@ -1,0 +1,11 @@
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Framework\bin\Debug\net7.0\UserRole.Framework.deps.json
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Framework\bin\Debug\net7.0\UserRole.Framework.dll
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Framework\bin\Debug\net7.0\UserRole.Framework.pdb
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Framework\obj\Debug\net7.0\UserRole.Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Framework\obj\Debug\net7.0\UserRole.Framework.AssemblyInfoInputs.cache
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Framework\obj\Debug\net7.0\UserRole.Framework.AssemblyInfo.cs
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Framework\obj\Debug\net7.0\UserRole.Framework.csproj.CoreCompileInputs.cache
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Framework\obj\Debug\net7.0\UserRole.Framework.dll
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Framework\obj\Debug\net7.0\refint\UserRole.Framework.dll
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Framework\obj\Debug\net7.0\UserRole.Framework.pdb
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Framework\obj\Debug\net7.0\ref\UserRole.Framework.dll

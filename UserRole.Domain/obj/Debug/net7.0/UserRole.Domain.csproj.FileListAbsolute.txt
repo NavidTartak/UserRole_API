@@ -1,0 +1,17 @@
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Domain\bin\Debug\net7.0\UserRole.Domain.deps.json
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Domain\bin\Debug\net7.0\UserRole.Domain.dll
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Domain\bin\Debug\net7.0\UserRole.Domain.pdb
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Domain\obj\Debug\net7.0\UserRole.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Domain\obj\Debug\net7.0\UserRole.Domain.AssemblyInfoInputs.cache
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Domain\obj\Debug\net7.0\UserRole.Domain.AssemblyInfo.cs
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Domain\obj\Debug\net7.0\UserRole.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Domain\obj\Debug\net7.0\UserRole.Domain.dll
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Domain\obj\Debug\net7.0\refint\UserRole.Domain.dll
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Domain\obj\Debug\net7.0\UserRole.Domain.pdb
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Domain\obj\Debug\net7.0\ref\UserRole.Domain.dll
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Domain\bin\Debug\net7.0\UserRole.Domain.runtimeconfig.json
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Domain\bin\Debug\net7.0\UserRole.Framework.dll
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Domain\bin\Debug\net7.0\UserRole.Framework.pdb
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Domain\obj\Debug\net7.0\UserRole.Domain.csproj.AssemblyReference.cache
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Domain\obj\Debug\net7.0\UserRole.980EFFE1.Up2Date
+D:\Projects\Mika Git\Navid\Test\UserRole_API\UserRole.Domain\obj\Debug\net7.0\UserRole.Domain.genruntimeconfig.cache

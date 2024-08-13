@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Mika Git\\Navid\\Test\\UserRole_API\\UserRole.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04EFC334-1A5B-43E6-A3F8-4F87E420F5E9}|UserRole.API.csproj|d:\\projects\\mika git\\navid\\test\\userrole_api\\userrole.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EFC334-1A5B-43E6-A3F8-4F87E420F5E9}|UserRole.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EFC334-1A5B-43E6-A3F8-4F87E420F5E9}|UserRole.API.csproj|d:\\projects\\mika git\\navid\\test\\userrole_api\\userrole.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EFC334-1A5B-43E6-A3F8-4F87E420F5E9}|UserRole.API.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A37818-37A9-49CC-B580-6F18553FDC04}|..\\UserRole.Application\\UserRole.Application.csproj|d:\\projects\\mika git\\navid\\test\\userrole_api\\userrole.application\\services\\services\\userapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A37818-37A9-49CC-B580-6F18553FDC04}|..\\UserRole.Application\\UserRole.Application.csproj|d:\\projects\\mika git\\navid\\test\\userrole_api\\userrole.application\\services\\interfaces\\iuserapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D7B326-15D6-436E-9524-68EB9F82D016}|..\\UserRole.Domain\\UserRole.Domain.csproj|d:\\projects\\mika git\\navid\\test\\userrole_api\\userrole.domain\\services\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Mika Git\\Navid\\Test\\UserRole_API\\UserRole.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\Mika Git\\Navid\\Test\\UserRole_API\\UserRole.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAHMAAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:42:52.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Projects\\Mika Git\\Navid\\Test\\UserRole_API\\UserRole.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Projects\\Mika Git\\Navid\\Test\\UserRole_API\\UserRole.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAtwBIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:36:53.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserApplication.cs",
+              "DocumentMoniker": "D:\\Projects\\Mika Git\\Navid\\Test\\UserRole_API\\UserRole.Application\\Services\\Services\\UserApplication.cs",
+              "RelativeDocumentMoniker": "..\\UserRole.Application\\Services\\Services\\UserApplication.cs",
+              "ToolTip": "D:\\Projects\\Mika Git\\Navid\\Test\\UserRole_API\\UserRole.Application\\Services\\Services\\UserApplication.cs",
+              "RelativeToolTip": "..\\UserRole.Application\\Services\\Services\\UserApplication.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBMAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:30:18.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserApplication.cs",
+              "DocumentMoniker": "D:\\Projects\\Mika Git\\Navid\\Test\\UserRole_API\\UserRole.Application\\Services\\Interfaces\\IUserApplication.cs",
+              "RelativeDocumentMoniker": "..\\UserRole.Application\\Services\\Interfaces\\IUserApplication.cs",
+              "ToolTip": "D:\\Projects\\Mika Git\\Navid\\Test\\UserRole_API\\UserRole.Application\\Services\\Interfaces\\IUserApplication.cs",
+              "RelativeToolTip": "..\\UserRole.Application\\Services\\Interfaces\\IUserApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:29:22.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Mika Git\\Navid\\Test\\UserRole_API\\UserRole.Domain\\Services\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\UserRole.Domain\\Services\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\Projects\\Mika Git\\Navid\\Test\\UserRole_API\\UserRole.Domain\\Services\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "..\\UserRole.Domain\\Services\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:20:33.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
